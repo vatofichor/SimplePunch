@@ -24,15 +24,7 @@ A zero-dependency, browser-based punch clock. Drop it, open it, done.
 
 ## PHP Server Mode (optional)
 
-If you run SimplePunch from a PHP-enabled server, use `/public/index.php` instead of `index.html`.
-
-**Extra feature unlocked:** a **Last Folder** button appears at the top of the toolbar. After your first folder pick it remembers the folder name for 1 week (via PHP session), so on your next visit you know exactly which folder to select again.
-
-```
-php -S localhost:8080 -t public/
-```
-
-Then open `http://localhost:8080` in your browser.
+Removed. Just run your local php server if you have it and want it. Not necessary.
 
 ---
 
